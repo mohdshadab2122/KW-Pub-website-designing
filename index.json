@@ -1,0 +1,145 @@
+{
+  "source": {
+    "file": "index.html",
+    "url": "file:///Users/mohdshadab/Documents/Kw%20Publisher%20Site%20Redesigning/index.html",
+    "language": "en",
+    "doctype": "html"
+  },
+  "meta": {
+    "title": "KW Publishers | Defence, Diplomacy & Strategic Studies Publications",
+    "description": "Explore books, journals, monographs, and policy-focused publications from KW Publishers, India's specialist publisher for defence, diplomacy, geopolitics, military history, and strategic studies.",
+    "canonical": "https://kwpub.in/",
+    "openGraph": {
+      "title": "KW Publishers | Defence, Diplomacy & Strategic Studies Publications",
+      "description": "Books, journals, monographs, and policy-focused publications from India's specialist publisher for defence, diplomacy, geopolitics, military history, and strategic affairs.",
+      "type": "website",
+      "url": "https://kwpub.in/",
+      "image": "https://kwpub.in/assets/kw-publishers-og.jpg"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "KW Publishers | Defence, Diplomacy & Strategic Studies Publications",
+      "description": "Books, journals, monographs, and catalogue support for defence institutions, libraries, scholars, and serious readers of strategic affairs.",
+      "image": "https://kwpub.in/assets/kw-publishers-og.jpg"
+    },
+    "themeColor": "#071421",
+    "favicon": "assets/favicon.svg"
+  },
+  "designRead": {
+    "mode": "redesign-preserve",
+    "audience": [
+      "defence institutions",
+      "think tanks",
+      "universities",
+      "libraries",
+      "scholars",
+      "serious readers"
+    ],
+    "language": "premium institutional editorial",
+    "dials": {
+      "designVariance": 5,
+      "motionIntensity": 4,
+      "visualDensity": 4
+    }
+  },
+  "header": {
+    "brand": "KW Publishers Pvt. Ltd.",
+    "navigation": [
+      "Books",
+      "New Releases",
+      "Subjects",
+      "Authors",
+      "Journals & Monographs",
+      "Catalogue",
+      "Institutional Orders"
+    ],
+    "utilities": [
+      "Search",
+      "Login",
+      "Cart"
+    ]
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "title": "Knowledge with Substance for Defence, Diplomacy & Strategic Studies",
+      "motionAsset": "assets/hero-click-preview.mp4",
+      "visualAsset": "assets/hero-knowledge-strategy.png",
+      "actions": [
+        "Explore New Releases",
+        "Download Catalogue",
+        "Institutional Orders"
+      ],
+      "credibility": [
+        "500+ Titles",
+        "Defence & Strategic Studies",
+        "Books, Journals and Monographs",
+        "New Delhi, India"
+      ]
+    },
+    {
+      "id": "catalogue-search",
+      "title": "Search the KW Catalogue",
+      "filters": [
+        "Defence Studies",
+        "International Relations",
+        "Military History",
+        "China Studies",
+        "Maritime Security",
+        "Air Power",
+        "Nuclear Policy",
+        "Diplomacy"
+      ]
+    },
+    {
+      "id": "new-releases",
+      "title": "New & Strategic Reading",
+      "books": [
+        "Asian Defence Review 2025",
+        "China: The Hardening State",
+        "India's Maritime Power",
+        "The Future of Indian Diplomacy",
+        "Drones Redefined"
+      ]
+    },
+    {
+      "id": "subjects",
+      "title": "Editorial pathways into the catalogue",
+      "count": 9
+    },
+    {
+      "id": "authors",
+      "title": "An expert network behind the list",
+      "authors": [
+        "Jayadeva Ranade",
+        "Maj Gen (Dr.) G. D. Bakshi",
+        "Air Marshal Anil Chopra",
+        "Dr Manpreet Sethi",
+        "Bilkis Latif"
+      ]
+    },
+    {
+      "id": "journals",
+      "title": "Journals, Monographs & Policy Papers",
+      "cards": [
+        "Journals",
+        "Monographs",
+        "Policy Papers",
+        "Asian Defence Review"
+      ]
+    },
+    {
+      "id": "catalogue",
+      "title": "Download the Latest KW Publishers Catalogue"
+    },
+    {
+      "id": "orders",
+      "title": "Institutional & Library Orders"
+    }
+  ],
+  "footer": {
+    "brand": "KW Publishers Pvt. Ltd.",
+    "address": "Ansari Road, Darya Ganj, New Delhi, India",
+    "motto": "Knowledge with Substance"
+  }
+}
