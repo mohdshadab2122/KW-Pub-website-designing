@@ -8,6 +8,7 @@
 /dist/
 /.wrangler/
 /out/
+/.vercel/
 
 # local noise
 .DS_Store
