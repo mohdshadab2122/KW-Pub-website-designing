@@ -24,6 +24,7 @@
   const gsap = window.gsap;
   const ScrollTrigger = window.ScrollTrigger;
   const HERO_STAGE_SCROLL_VIEWPORTS = 3.8;
+  const HERO_SECOND_STAGE_START = 0.22;
 
   const heroStages = [
     {
@@ -407,7 +408,7 @@
       return 2;
     }
 
-    if (progress >= 0.25) {
+    if (progress >= HERO_SECOND_STAGE_START) {
       return 1;
     }
 
