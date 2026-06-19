@@ -6,7 +6,7 @@ Motion-led KW Publishers homepage prepared for GitHub and Vercel deployment.
 
 ```bash
 npm install
-npm run dev
+npm run build
 ```
 
 ## Production Build
